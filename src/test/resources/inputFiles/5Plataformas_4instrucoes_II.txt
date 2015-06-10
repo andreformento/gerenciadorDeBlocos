@@ -1,0 +1,6 @@
+5 plataformas
+
+mover B1 para P2
+mover B2 para P3
+mover B3 para P4
+mover B4 para P5
